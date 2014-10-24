@@ -1,0 +1,5 @@
+C:\Home\WorkPlace\Syr\CLASS\Software Modelling\MyTest\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe.config
+C:\Home\WorkPlace\Syr\CLASS\Software Modelling\MyTest\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe
+C:\Home\WorkPlace\Syr\CLASS\Software Modelling\MyTest\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.pdb
+C:\Home\WorkPlace\Syr\CLASS\Software Modelling\MyTest\CodeAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.exe
+C:\Home\WorkPlace\Syr\CLASS\Software Modelling\MyTest\CodeAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.pdb
